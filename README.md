@@ -92,7 +92,7 @@ Open in browser:
 ## ⚠️ Note
 
 * Dataset and model files are not included due to size limits
-* Download models from: *(Add your Google Drive link)*
+* Download models from: *(Coming soon Google Drive link)*
 
 ---
 
@@ -114,10 +114,7 @@ Open in browser:
 
 ## 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Nidhi Dhameliya**
 
 ---
 
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
