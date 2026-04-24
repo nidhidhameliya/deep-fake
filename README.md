@@ -26,7 +26,7 @@ Deepfake Detective is an advanced AI system that detects whether an image is **R
 
 ## 🖼️ Demo Preview
 
-(Add your screenshots here)
+Screenshort_1.png
 
 ```
 📌 Example:
