@@ -28,11 +28,11 @@ Deepfake Detective is an advanced AI system that detects whether an image is **R
 
 ### 📌 Application Screenshot  
 
-[App Screenshot](screenshot_1.png)
+![App Screenshot](screenshot_1.png)
 
 ```
 📌 Example:
-[App Screenshot](Screenshot 2026-04-22 231725.png)
+![App Screenshot](screenshot_1.png)
 ```
 
 ---
